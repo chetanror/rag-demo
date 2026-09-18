@@ -32,13 +32,11 @@ python -m py_compile app.py rag_engine.py
 4. The answer method selects relevant sentences and adds numbered source citations.
 5. The UI exposes both the answer and the retrieved passages so the result can be inspected.
 
-## Project link
+## Project
 
-Created by [Chetan Ror](https://github.com/chetanror).
+Created by [chetanror](https://github.com/chetanror).
 
-After creating the GitHub repository, add its URL here and submit that link:
-
-`https://github.com/chetanror/rag-demo`
+[View the repository on GitHub](https://github.com/chetanror/rag-demo)
 
 ## Limitations and next steps
 
